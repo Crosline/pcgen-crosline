@@ -1,0 +1,41 @@
+# CVS $Revision: $ $Author: $ -- Mon Feb 22 22:56:28 2016 -- reformated by PCGen PrettyLST v6.06.00
+
+# Ability Category						Visible		Editable?		Change Pool?	Base Pool number						Category of Object		Type of Object											Specific choices list																				Display Location
+
+#
+
+# Ability Category						Visible		Editable?		Change Pool?	Base Pool number						Category of Object		Type of Object											Specific choices list																				Display Location
+# Used to handle different races using the same name from different campaigns
+
+# Class Skills
+ABILITYCATEGORY:Barbarian Skill				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		POOL:POOL_Barbarian_Skill				CATEGORY:Skill																ABILITYLIST:IntimidationSTR											DISPLAYLOCATION:Character
+
+# Barbarian Class - Path of the Totem Warrior
+
+# Bard Feature
+
+# Spell Support
+
+# Cantrips
+
+# Ranger Hunter Selections
+
+# Class Features
+
+# Tools
+
+# Tool Proficiencies
+
+# Backgrounds																																	DISPLAYLOCATION:Character
+
+###Block: Feat Support
+# Ability Category			Visible		Editable?		Change Pool?	Category of Object	Type of Object		Specific choices list							Display Location
+
+###Block: Blessings Support
+# Ability Category					Visible		Editable?		Change Pool?	Category of Object		Type of Object				Display Location
+
+
+###Block: Misc Support
+# Ability Category			Visible	Editable?		Change Pool?	Base Pool number		Category of Object		Type of Object		Display Location
+
+# A place to store Organization Affiliations
