@@ -1,0 +1,17 @@
+# CVS $Revision$ $Author$ -- Fri May  3 14:36:53 2013 -- reformated by prettylst.pl v1.50 (build 19967)
+CAMPAIGN:Karaay's Handbook
+KEY:5e - Karaay's Handbook
+
+BOOKTYPE:Homebrew
+PRECAMPAIGN:1,BOOKTYPE=Core Rules
+GAMEMODE:5e
+STATUS:BETA
+TYPE:Homebrew
+SOURCELONG:Karaay's Handbook
+SOURCESHORT:KH
+SOURCEDATE:2022-12
+
+ABILITY:kh_abilities.lst
+ABILITYCATEGORY:kh_abilitycategories.lst
+
+SKILL:kh_skills.lst
