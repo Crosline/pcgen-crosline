@@ -10,3 +10,5 @@ TYPE:Homebrew
 SOURCELONG:Vephetora Handbook
 SOURCESHORT:VH
 SOURCEDATE:2022-12
+
+ABILITY:vh_feats.lst
