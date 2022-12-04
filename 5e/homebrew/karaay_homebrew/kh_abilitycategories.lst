@@ -39,3 +39,10 @@ ABILITYCATEGORY:Barbarian Skill				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		POO
 # Ability Category			Visible	Editable?		Change Pool?	Base Pool number		Category of Object		Type of Object		Display Location
 
 # A place to store Organization Affiliations
+
+#ABILITYCATEGORY:Warrior Specialty					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability						ABILITYLIST:Warrior ~ Specialty		DISPLAYLOCATION:Character
+ABILITYCATEGORY:Warrior Specialty				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Warrior Specialty																																	DISPLAYLOCATION:Character
+ABILITYCATEGORY:Warrior Personality Trait			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Warrior Personality Trait																															DISPLAYLOCATION:Character
+ABILITYCATEGORY:Warrior Ideal					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Warrior Ideal																																	DISPLAYLOCATION:Character
+ABILITYCATEGORY:Warrior Bond					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Warrior Bond																																		DISPLAYLOCATION:Character
+ABILITYCATEGORY:Warrior Flaw					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO										CATEGORY:Special Ability	TYPE:Warrior Flaw																																		DISPLAYLOCATION:Character
