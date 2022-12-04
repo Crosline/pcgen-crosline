@@ -1,0 +1,12 @@
+# CVS $Revision$ $Author$ -- Fri May  3 14:36:53 2013 -- reformated by prettylst.pl v1.50 (build 19967)
+CAMPAIGN:Vephetora Handbook
+KEY:35e - Vephetora Handbook
+
+BOOKTYPE:Homebrew
+PRECAMPAIGN:1,BOOKTYPE=Core Rules
+GAMEMODE:35e
+STATUS:BETA
+TYPE:Homebrew
+SOURCELONG:Vephetora Handbook
+SOURCESHORT:VH
+SOURCEDATE:2022-12
