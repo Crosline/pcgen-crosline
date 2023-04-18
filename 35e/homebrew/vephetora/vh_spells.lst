@@ -1,0 +1,4 @@
+Seeking Ray											TYPE:Arcane	SCHOOL:Evocation							DESCRIPTOR:Electricity																					COMPS:V, S						CASTTIME:1 standard action			RANGE:Medium						ITEM:Potion	TARGETAREA:One living creature																											DURATION:Instantaneous; see text													SAVEINFO:None											SPELLRES:Yes											SOURCELONG:Vephetora Handbook	SOURCESHORT:VH		SOURCEPAGE:p.00	SOURCELINK:https://dndtools.net/spells/players-handbook-ii--80/seeking-ray--2979/
+
+Seeking Ray.MOD												DESC:A ray of electricity springs from your hand. It snakes around obstacles, cover, and other impediments on its way toward your target. (Not total cover) If this ray struck the target and dealt damage, you gain a +4 bonus on attacks you make with ray spells (including another casting of this one, if desired) against the subject for 1 round per caster level.|PRERULE:1,DisplayFullSpell
+Seeking Ray.MOD												DESC:4d6 electricity damage|!PRERULE:1,DisplayFullSpell
